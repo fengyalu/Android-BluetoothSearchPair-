@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.UUID;
 
 /**
- * Created by Administrator on 2018/9/21 0021.
+ * Created by fyl on 2018/9/21 0021.
  */
 
 public class BleAdvertisedData {
